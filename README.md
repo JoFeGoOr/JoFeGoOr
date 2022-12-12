@@ -1,4 +1,4 @@
-Repositorio oficial para proyectos de titulacion  
+Repositorio oficial para proyectos de titulación  
 Jorge Felipe González Orellana  
 
 Mail ---> jorge.gonzalez.o@mail.pucv.cl
